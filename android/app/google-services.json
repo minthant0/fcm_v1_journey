@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "47887870879",
+    "project_id": "fcm-v1-90e68",
+    "storage_bucket": "fcm-v1-90e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47887870879:android:be8b0a3248f4a6d2a6ebaa",
+        "android_client_info": {
+          "package_name": "com.example.fcm_v1_journey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVjWUrAPz4fNO76Ofn6ukGqIlBVi7Z6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47887870879:android:fdba7f6d6a14ba26a6ebaa",
+        "android_client_info": {
+          "package_name": "com.white.fcm_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47887870879-d82r8lbrhomoc5tt1ba1eu9sf60ii817.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.white.fcm_v1",
+            "certificate_hash": "ff8a0586663888e24c9e294778444b66a58e3066"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVjWUrAPz4fNO76Ofn6ukGqIlBVi7Z6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
